@@ -6,7 +6,7 @@ A cool project, but just a test.
 - whatever
 - not so much
 - for now
-- and maye someday a few things
+- and maybe someday a few things
 
 ## YOU MIGHT THINK
 
