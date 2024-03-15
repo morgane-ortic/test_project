@@ -1,6 +1,6 @@
 # test_project
 
-##THIS IS A NEW BRANCH WITH OUR NEW (USELESS) FEATURE##
+## THIS IS A NEW BRANCH WITH OUR NEW (USELESS) FEATURE ##
 
 A cool project, but just a test.
 
